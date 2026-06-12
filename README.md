@@ -1,4 +1,3 @@
-# economic-benefits-vs-political-loyalty
 # Benefit or Loyalty: An empirical research from 2021 referendum in Taiwan
 
 ## Overview
